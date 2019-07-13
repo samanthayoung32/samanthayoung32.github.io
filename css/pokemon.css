@@ -1,0 +1,17 @@
+section, header {
+  color: #69d5ef;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+}
+
+p,ul, h3 {
+  color: #69d5ef;
+  text-align: left;
+  font-family: 'Kalam', cursive;
+  font-size: 30px;
+}
+
+img {
+  height: 180px;
+  border-radius: 100px;
+}
